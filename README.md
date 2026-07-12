@@ -28,6 +28,14 @@ The trained model is deployed through an interactive web application, allowing u
 
 ---
 
+## 📸 Sample Prediction
+
+The application predicts the winning probability for both teams based on the current match situation.
+
+<p align="center">
+    <img src="output.jpg" alt="IPL Match Winner Prediction" width="900">
+</p>
+
 ## 📊 Dataset
 
 The project uses historical IPL data containing match-level and ball-by-ball information.
